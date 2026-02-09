@@ -9,13 +9,13 @@ Este projeto utiliza técnicas de **Processamento de Linguagem Natural (NLP)** p
 
 ##  Sumário
 
-- [ Objetivo](#-objetivo)
-- [ Metodologia](#-metodologia)
-- [ Dataset](#-dataset)
-- [ Resultados Principais](#-resultados-principais)
-- [ Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [ Estrutura do Projeto](#-estrutura-do-projeto)
-- [ Autor](#-autor)
+- [ Objetivo]
+- [ Metodologia]
+- [ Dataset]
+- [ Resultados Principais]
+- [ Tecnologias Utilizadas]
+- [ Estrutura do Projeto]
+- [ Autor]
 
 ---
 
