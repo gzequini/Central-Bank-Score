@@ -1,0 +1,5 @@
+# Ignorar arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar dados sensíveis (opcional - remova se quiser incluir o CSV)
+all_speeches.csv
